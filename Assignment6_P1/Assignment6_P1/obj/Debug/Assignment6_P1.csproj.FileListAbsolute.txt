@@ -1,0 +1,7 @@
+D:\mphasis\dotnet\Assignment6_P1\Assignment6_P1\bin\Debug\Assignment6_P1.exe.config
+D:\mphasis\dotnet\Assignment6_P1\Assignment6_P1\bin\Debug\Assignment6_P1.exe
+D:\mphasis\dotnet\Assignment6_P1\Assignment6_P1\bin\Debug\Assignment6_P1.pdb
+D:\mphasis\dotnet\Assignment6_P1\Assignment6_P1\obj\Debug\Assignment6_P1.csproj.AssemblyReference.cache
+D:\mphasis\dotnet\Assignment6_P1\Assignment6_P1\obj\Debug\Assignment6_P1.csproj.CoreCompileInputs.cache
+D:\mphasis\dotnet\Assignment6_P1\Assignment6_P1\obj\Debug\Assignment6_P1.exe
+D:\mphasis\dotnet\Assignment6_P1\Assignment6_P1\obj\Debug\Assignment6_P1.pdb
